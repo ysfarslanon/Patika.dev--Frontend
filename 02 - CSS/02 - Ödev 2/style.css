@@ -1,0 +1,60 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+img{
+    margin: 0px 38.5% 0px;
+    margin-top: 8px;
+    padding: 0;
+}
+input[type=button]{
+    padding: 1px 6px;
+}
+.container{
+    height: 250px;
+    margin-left: 85px;
+    margin-right: 85px;
+}
+.searchBar{
+    text-align: center;
+    background-color: #eee;
+    padding-top: 2px;
+}
+.infoBox{
+    margin-top: 2px;
+    height: 75px;
+}
+.leftBox{
+    text-align: center;
+    width: 37%;
+    background-color: #7EE5DA;
+    padding: 10px 0px;
+    margin-right: 2px;
+    float: left;
+}
+.middleBox{
+    text-align: center;
+    width: 176px;
+    height: 55px;
+    background-color: #70CCC2;
+    font-size: 13px;
+    padding: 10px 50px;
+    margin-right: 2px;
+    float: left;
+}
+.rightBox{
+    text-align: center;
+    width: 580px;
+    height: 75px;
+    background-color: #62B3AA;
+    font-size: 12px;
+    float: right;
+}
+.rightBox>input[type=button]{
+    margin-top: 1px;
+}
+.copyright{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 14px;
+}
