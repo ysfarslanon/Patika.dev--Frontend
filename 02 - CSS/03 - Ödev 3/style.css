@@ -119,6 +119,7 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   text-align: center;
   margin-top: 10px;
 }
+
 .googlesearch { /* button */
   margin: 11px 4px;
   padding: 0 16px;
@@ -127,11 +128,11 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   text-align: center;
   cursor: pointer;
   user-select: none;
-  border: 1px solid #f2f2f2;
-  font-family: Arial, Helvetica, sans-serif;
-  color: #5f6368;
-  font-size: 14px;
-  height: 36px;
+  border: 1px solid #f2f2f2;/* added */
+  font-family: Arial, Helvetica, sans-serif;/* added */
+  color: #5f6368;/* added */
+  font-size: 14px;/* added */
+  height: 36px;/* added */
 }
 
 .feelinglucky { /* button */
@@ -141,15 +142,17 @@ box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
   text-align: center;
   cursor: pointer;
   user-select: none;
-  border: 1px solid #f2f2f2;
-  font-family: Arial, Helvetica, sans-serif;
-  color: #5f6368;
-  font-size: 14px;
-  height: 36px;
+  border: 1px solid #f2f2f2;/* added */
+  font-family: Arial, Helvetica, sans-serif;/* added */
+  color: #5f6368;/* added */
+  font-size: 14px;/* added */
+  height: 36px;/* added */
 }
-.btn-shadow:hover{
+
+.btn-shadow:hover{/* added */
   box-shadow: 0 2px 3px 0 rgba(0,0,0,0.24), 0 2px 5px 0 rgba(0,0,0,0.19);
 }
+
 .footer {
   margin: 0;
   padding: 0;
