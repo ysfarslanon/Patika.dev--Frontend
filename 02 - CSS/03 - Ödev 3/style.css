@@ -42,6 +42,7 @@ li img{
   margin: 0 auto;
   margin-top: -77px;
   width: 582px;
+  border-radius: 50px;
 }
 
 .search-area:hover {
